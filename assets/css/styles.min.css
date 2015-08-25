@@ -3787,6 +3787,8 @@ html {
   border: none;
   border-radius: 1px;
   margin-bottom: 5px;
+  background: #ffffff url('/assets/img/icon-arrow-down-b-128.png') center right 8px no-repeat;
+  background-size: 15px auto;
 }
 #register--form_wrap {
   background: rgba(0, 0, 0, 0.5);

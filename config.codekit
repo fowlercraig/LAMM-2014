@@ -14975,6 +14975,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/img\/icon-arrow-down-b-128.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 858,
+		"inputAbbreviatedPath": "\/assets\/img\/icon-arrow-down-b-128.png",
+		"outputAbbreviatedPath": "\/assets\/img\/icon-arrow-down-b-128.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/lamm-3x.png": {
 		"fileType": 32768,
 		"ignore": 0,
