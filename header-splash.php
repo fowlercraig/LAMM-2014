@@ -56,3 +56,10 @@
         </nav>
       </div>
     </header>
+    <div id="register-header" class="fs-grid-fluid">
+      <div class="fs-row">
+        <div class="fs-cell fs-full-all">
+          <a href="/register" class="btn btn-nav">Buyer Registration</a>
+        </div>
+      </div>
+    </div>

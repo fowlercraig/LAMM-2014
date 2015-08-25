@@ -10,6 +10,27 @@
 		z-index: 9;
 	}
 
+	&-header {
+		position: absolute;
+		z-index: 999;
+		width: 100%;
+		left: 0;
+		text-align: right;
+		padding: @spaced 0;
+
+		.btn {
+			height: 35px;
+			line-height: 35px;
+			display: inline-block;
+			border: 1px solid @white50;
+			&:hover {
+				background-color: @white;
+				color: @black75;
+			}
+		}
+
+	}
+
 	h1,h2,h3,h4,h5,h6 {
 		color: @white;
 		text-align: center;

@@ -3721,6 +3721,24 @@ html {
   background-color: rgba(0, 0, 0, 0.75);
   z-index: 9;
 }
+#register-header {
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  left: 0;
+  text-align: right;
+  padding: 25px 0;
+}
+#register-header .btn {
+  height: 35px;
+  line-height: 35px;
+  display: inline-block;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+#register-header .btn:hover {
+  background-color: #ffffff;
+  color: rgba(0, 0, 0, 0.75);
+}
 #register h1,
 #register h2,
 #register h3,
