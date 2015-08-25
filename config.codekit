@@ -15384,6 +15384,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/header-form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/header-form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/header-splash.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -19145,6 +19154,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.38261e+06,
+		"inputAbbreviatedPath": "\/screenshot.png",
+		"outputAbbreviatedPath": "\/screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/search.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -19345,7 +19365,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/old.lamensmarket.dev",
+	"externalServerAddress": "http:\/\/old.lamensmarket.dev\/",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,

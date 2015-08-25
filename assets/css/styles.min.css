@@ -3710,6 +3710,16 @@ html {
 }
 #register {
   color: #ffffff;
+  padding-top: 75px;
+}
+#register-bg {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 9;
 }
 #register h1,
 #register h2,
@@ -3718,6 +3728,12 @@ html {
 #register h5,
 #register h6 {
   color: #ffffff;
+  text-align: center;
+  font-size: 24px;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-right: 30px;
 }
 #register ul {
   padding: 0;
@@ -3726,5 +3742,36 @@ html {
   display: none;
 }
 #register form label {
-  color: #7d7d8e;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 3px;
+  margin-top: 0;
+}
+#register form input {
+  border-radius: 1px;
+  box-shadow: none;
+  height: 37.5px;
+  -webkit-font-smoothing: antialiased;
+}
+#register form input.button {
+  padding: 0 25px;
+  background-color: #ffffff;
+  color: rgba(0, 0, 0, 0.75);
+  border-radius: 3px;
+  -webkit-font-smoothing: antialiased;
+}
+#register form select {
+  -webkit-appearance: none;
+  height: 37.5px;
+  border: none;
+  border-radius: 1px;
+  margin-bottom: 5px;
+}
+#register--form_wrap {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 50px;
+  padding-top: 62.5px;
+  padding-right: 20px;
+  padding-bottom: 25px;
+  position: relative;
+  z-index: 99;
 }
