@@ -96,10 +96,21 @@
 		&_wrap {
 
 			background: @black50;
-			padding: @spaced*2;
-			padding-top: @spaced*2.5;
-			padding-right: @spaced - 5;
-			padding-bottom: @spaced;
+
+			@media @mobile {
+				padding: @spaced;
+				padding-top: @spaced*1.5;
+				padding-right: @spaced/2 - 5;
+				padding-bottom: @spaced;	
+			}
+
+			@media @desktop {
+				padding: @spaced*2;
+				padding-top: @spaced*2.5;
+				padding-right: @spaced - 5;
+				padding-bottom: @spaced;	
+			}
+			
 			position: relative;
 			z-index: 99;
 			

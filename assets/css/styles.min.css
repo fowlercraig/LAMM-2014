@@ -5,7 +5,7 @@
  */
 .fs_grid_row,
 .fs-grid .fs-row {
-  width: 300px;
+  width: 95%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -3789,10 +3789,22 @@ html {
 }
 #register--form_wrap {
   background: rgba(0, 0, 0, 0.5);
-  padding: 50px;
-  padding-top: 62.5px;
-  padding-right: 20px;
-  padding-bottom: 25px;
   position: relative;
   z-index: 99;
+}
+@media screen and (min-width: 300px) {
+  #register--form_wrap {
+    padding: 25px;
+    padding-top: 37.5px;
+    padding-right: 7.5px;
+    padding-bottom: 25px;
+  }
+}
+@media screen and (min-width: 980px) {
+  #register--form_wrap {
+    padding: 50px;
+    padding-top: 62.5px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+  }
 }
