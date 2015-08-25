@@ -17,7 +17,7 @@ $(function(){
     });
   }
   about();
-  $("select").dropdown();
+  //$("select").dropdown();
   $("#splash--nav").navigation({
     labels: {
       closed: '',
