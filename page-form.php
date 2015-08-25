@@ -1,4 +1,4 @@
-<?php Themewrangler::setup_page();get_header('splash'/***Template Name: Homepage */); ?>
+<?php Themewrangler::setup_page();get_header('splash'/***Template Name: Register */); ?>
 
 <div id="register">
    <div class="fs-row">
