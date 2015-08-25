@@ -39,4 +39,10 @@
 
 <body <?php body_class('fs-grid splash'); ?>>
   <div class="wrapper">
-    
+    <div id="register-header" class="fs-grid-fluid text-left">
+      <div class="fs-row">
+        <div class="fs-cell fs-full-all">
+          <a href="/" class="btn btn-nav">Back Home</a>
+        </div>
+      </div>
+    </div>

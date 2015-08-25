@@ -3729,6 +3729,9 @@ html {
   text-align: right;
   padding: 25px 0;
 }
+#register-header.text-left {
+  text-align: left;
+}
 #register-header .btn {
   height: 35px;
   line-height: 35px;
