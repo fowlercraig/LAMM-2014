@@ -60,6 +60,7 @@
       <div class="fs-row">
         <div class="fs-cell fs-full-all">
           <a href="/register" class="btn btn-nav">Buyer Registration</a>
+          <a href="/interested-in-exhibiting/" class="btn btn-nav">Interested in Exhibiting?</a>
         </div>
       </div>
     </div>
